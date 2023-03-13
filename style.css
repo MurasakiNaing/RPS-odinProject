@@ -1,0 +1,33 @@
+.btn {
+    font-size: 3.5rem;
+    width: 150px;
+    height: 150px;
+}
+
+.another-round {
+    display: none;
+}
+
+.choices {
+    text-align: center;
+}
+
+.sign {
+    font-size: 3.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.score {
+    display: flex;
+}
+
+.playerScore, .botScore {
+    font-size: 1.75rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result {
+    display: flex;
+}
